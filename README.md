@@ -38,3 +38,6 @@ s.no|name
 ![hrh](https://thumbs.gfycat.com/AbleNecessaryFoxterrier-size_restricted.gif)
 ![gdsruhg](https://c.tenor.com/6SwY1IRJviQAAAAC/brahmanandam-brahmi.gif)
 ![fgsuye](https://c.tenor.com/DQHwX2YLZfgAAAAC/brahmi-king.gif)
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
