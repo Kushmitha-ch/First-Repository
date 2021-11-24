@@ -22,4 +22,4 @@ main list
 💥
 ![this is first image](https://c.tenor.com/pHR9PCIgR5IAAAAM/what-confusion.gif)
 ![kingu](https://c.tenor.com/4I_mpb0t-U0AAAAM/bramhi-brahmi.gif)
-![kingu koduku](https://c.tenor.com/cYLlkzscqPoAAAAC/ayyagaru-addict.gif)
+![kingu koduku](https://c.tenor.com/HxGr0AZxwYwAAAAM/telugu-brahmi.gif)
