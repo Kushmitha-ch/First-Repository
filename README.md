@@ -23,3 +23,14 @@ main list
 ![this is first image](https://c.tenor.com/pHR9PCIgR5IAAAAM/what-confusion.gif)
 ![kingu](https://c.tenor.com/4I_mpb0t-U0AAAAM/bramhi-brahmi.gif)
 ![kingu koduku](https://c.tenor.com/HxGr0AZxwYwAAAAM/telugu-brahmi.gif)
+![ayyagari fan](https://c.tenor.com/9PMwcZeFWkMAAAAM/balayya.gif)
+![brahma](https://c.tenor.com/taKFkN5qs8MAAAAM/brahmi-shy-shy.gif)
+![drghk](https://c.tenor.com/KiuaZoWm9OkAAAAM/shy-siggu.gif)
+![gdui](https://j.gifs.com/yAGOrP.gif)
+
+![dfuihg](https://thumbs.gfycat.com/ActiveGaseousBrownbutterfly-size_restricted.gif)
+[duig](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTliVhkJffYMRWT6luSzicDWtnrTz081A2S1g&usqp=CAU)
+
+s.no|name
+----|----
+1|SAI
