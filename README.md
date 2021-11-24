@@ -41,3 +41,5 @@ s.no|name
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+![rehg](https://i2.wp.com/thereviewstories.com/wp-content/uploads/2020/07/24.jpg?resize=1024%2C640&ssl=1)
